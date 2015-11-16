@@ -190,7 +190,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib/libmmrtpdecoder.so:system/vendor/lib/libmmrtpdecoder.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libfastcvadsp_stub.so:system/vendor/lib/libfastcvadsp_stub.so \
-    vendor/lge/g4-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
     vendor/lge/g4-common/proprietary/vendor/lib/lib-rcsimssjni.so:system/vendor/lib/lib-rcsimssjni.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libmmcamera_isp_color_xform_viewfinder40.so:system/vendor/lib/libmmcamera_isp_color_xform_viewfinder40.so \
@@ -384,7 +383,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib/libmmcamera_isp_demux40.so:system/vendor/lib/libmmcamera_isp_demux40.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libchromatix_imx234_hfr_120.so:system/vendor/lib/libchromatix_imx234_hfr_120.so \
-    vendor/lge/g4-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libFileMux.so:system/vendor/lib/libFileMux.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libchromatix_t4ka3_default_video.so:system/vendor/lib/libchromatix_t4ka3_default_video.so \
@@ -551,7 +549,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib64/libCB.so:system/vendor/lib64/libCB.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libmmrtpdecoder.so:system/vendor/lib64/libmmrtpdecoder.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libC2D2.so:system/vendor/lib64/libC2D2.so \
-    vendor/lge/g4-common/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libNimsWrap.so:system/vendor/lib64/libNimsWrap.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/lib-rcsimssjni.so:system/vendor/lib64/lib-rcsimssjni.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libwfdmmsrc.so:system/vendor/lib64/libwfdmmsrc.so \
@@ -641,7 +638,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib64/libvendorconn.so:system/vendor/lib64/libvendorconn.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libbccQTI.so:system/vendor/lib64/libbccQTI.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libqcci_legacy.so:system/vendor/lib64/libqcci_legacy.so \
-    vendor/lge/g4-common/proprietary/vendor/lib64/libTimeService.so:system/vendor/lib64/libTimeService.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libFileMux.so:system/vendor/lib64/libFileMux.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libadsprpc.so:system/vendor/lib64/libadsprpc.so \
@@ -649,7 +645,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib64/libSHIMDivxDrm.so:system/vendor/lib64/libSHIMDivxDrm.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libQBLAS-0.11.38.so:system/vendor/lib64/libQBLAS-0.11.38.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libqmiservices.so:system/vendor/lib64/libqmiservices.so \
-    vendor/lge/g4-common/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/liblowi_client.so:system/vendor/lib64/liblowi_client.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/lib-imsrcscmservice.so:system/vendor/lib64/lib-imsrcscmservice.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/lib-imsxml.so:system/vendor/lib64/lib-imsxml.so \
@@ -677,7 +672,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib64/libmmipstreamnetwork.so:system/vendor/lib64/libmmipstreamnetwork.so \
     vendor/lge/g4-common/proprietary/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
     vendor/lge/g4-common/proprietary/priv-app/com.qualcomm.location/com.qualcomm.location.apk:system/priv-app/com.qualcomm.location/com.qualcomm.location.apk \
-    vendor/lge/g4-common/proprietary/app/TimeService/TimeService.apk:system/app/TimeService/TimeService.apk \
     vendor/lge/g4-common/proprietary/app/shutdownlistener/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk \
     vendor/lge/g4-common/proprietary/etc/firmware/BCM4339_003.001.009.0117.0620_LGE_P1_EU.hcd:system/etc/firmware/BCM4339_003.001.009.0117.0620_LGE_P1_EU.hcd \
     vendor/lge/g4-common/proprietary/etc/firmware/BCM4339_003.001.009.0117.0620_LGE_P1_EU.hcd:system/etc/firmware/BCM4335_003.001.009.0117.0620_LGE_P1_EU.hcd \
@@ -710,7 +704,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/bin/rild:system/bin/rild \
     vendor/lge/g4-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/g4-common/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
-    vendor/lge/g4-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/g4-common/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/lge/g4-common/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/lge/g4-common/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
@@ -775,7 +768,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib/libmmcamera_ubifocus_lib.so:system/vendor/lib/libmmcamera_ubifocus_lib.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libflp.so:system/vendor/lib64/libflp.so \
-    vendor/lge/g4-common/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/lge/g4-common/proprietary/vendor/lib/hw/gatekeeper.msm8992.so:system/vendor/lib/hw/gatekeeper.msm8992.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/hw/gatekeeper.msm8992.so:system/vendor/lib64/hw/gatekeeper.msm8992.so \
     vendor/lge/g4-common/proprietary/vendor/lib/liblqe.so:system/vendor/lib/liblqe.so \
@@ -784,10 +776,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/lge/g4-common/proprietary/vendor/bin/RIDLClient.exe:system/vendor/bin/RIDLClient.exe \
     vendor/lge/g4-common/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
-    vendor/lge/g4-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/lge/g4-common/proprietary/vendor/bin/fidodaemon:system/vendor/bin/fidodaemon \
     vendor/lge/g4-common/proprietary/vendor/lib/libavenhancements.so:system/vendor/lib/libavenhancements.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libavenhancements.so:system/vendor/lib64/libavenhancements.so \
-    vendor/lge/g4-common/proprietary/vendor/lib64/libqcmaputils.so:system/vendor/lge/g4-common/proprietary/vendor/lib64/libqcmaputils.so \
-    vendor/lge/g4-common/proprietary/bin/brcm-uim-sysfs:system/bin/brcm-uim-sysfs
-    
+    vendor/lge/g4-common/proprietary/vendor/lib64/libqcmaputils.so:system/vendor/lib64/libqcmaputils.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/hw/keystore.msm8992.so:system/vendor/lib/hw/keystore.msm8992.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/hw/keystore.msm8992.so:system/vendor/lib64/hw/keystore.msm8992.so
